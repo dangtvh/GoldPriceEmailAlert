@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoldPriceEmailAlert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1854fc0d749e5aeb99f61f2913b5b250583faf98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b810fea000cc9f773844a52816815780848d37")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoldPriceEmailAlert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoldPriceEmailAlert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
